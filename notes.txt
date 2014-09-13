@@ -48,5 +48,5 @@ git add -p
 git reset --hard
 	Dangerous, use it carefully
 
-git checkout <brunch/master>
-	go to the certain step or the final setp	
+git checkout <branch/master>
+	switch to the certain step or the final setp	
