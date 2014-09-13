@@ -46,7 +46,3 @@ git add -p
 	Lets us selectively stage changes
 
 git reset --hard
-	Dangerous, use it carefully
-
-git checkout <brunch/master>
-	go to the certain step or the final setp	
