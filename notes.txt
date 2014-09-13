@@ -50,3 +50,16 @@ git reset --hard
 
 git checkout <branch/master>
 	switch to the certain step or the final setp	
+	
+git revert <commit>
+	Reverses that commit by making another opposite commit
+
+Branches - Parallel universes where we can work on different things in isolation
+
+git branch 
+	gives a list of all branches in the repository
+	
+git branch <branch>
+	access the certain branch
+	
+	
