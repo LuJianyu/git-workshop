@@ -36,3 +36,8 @@ git log
 git log  --oneline 
 	show us all the commits in oneline!
 
+git diff <old> <new>
+	Shows us what has changed between any 2 commits
+	
+
+
