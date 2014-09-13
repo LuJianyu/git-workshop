@@ -68,4 +68,7 @@ git remote add origin [url]
 git push [romote] [branch]
 	pushes commits on [branch] to [remote]
 
-git pull origin master 	
+git pull [branch] [remote]
+	pull commits from [remote] to [branch]
+
+git clone [url]
