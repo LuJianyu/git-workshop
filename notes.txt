@@ -25,4 +25,4 @@ git status
 git add [file]
 	Tells git to start tracking specific files or folders
 
-wr		
+		
